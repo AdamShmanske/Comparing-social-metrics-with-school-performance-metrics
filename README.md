@@ -27,10 +27,22 @@ Microsoft Excel was used to answer:
 
 Using graphs and important values, the below section contains the numerical details and findings of our analysis.
 
+
 ### Linear Regression
+
+#### Single Linear Regression - Household Income
+ 
+#### Single Linear Regression - Incarceration Rate
+
+#### Single Linear Regression - Teen Birth Rate
+
+#### Single Linear Regression - Percentage of Non-white Residents
+
+#### Multiple Linear Regression
 
 
 ### Cluster Analysis
+Two separate cluster analyses were performed, in accordance with the above findings. The first cluster analysis (All Metrics) was conducted using all four social metrics. The partial cluster analysis was only based upon the percentage of non-white residents and the teenage birth rate, due to the lack of significance of the other values indicated by the large p-values - see "mlr" tab of [midterm_project_analysis](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/midterm_project_analysis.xlsx).
 
 #### Cluster Analysis - All Metrics
 
