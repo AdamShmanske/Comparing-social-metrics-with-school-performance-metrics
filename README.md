@@ -84,6 +84,7 @@ The table below compares the actual SAT values for each observation (individual 
 ### Linear Regression Predictions vs Actual Observations
 
 Below are two graphs that visually represent the predicted SAT vs actual SAT data in the chart above. 
+First, a residual plot is displayed which graphically represents the residual value for each observation. While the majority of actual SAT values are within 50 absolute SAT points from their prediction, there are many large outliers. However, it is difficult 
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActResGraph.png)
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActGraph.png)
