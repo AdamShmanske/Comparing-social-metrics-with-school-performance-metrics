@@ -83,8 +83,11 @@ The table below compares the actual SAT values for each observation (individual 
 
 ### Linear Regression Predictions vs Actual Observations
 
-![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActGraph.png)
+Below are two graphs that visually represent the predicted SAT vs actual SAT data in the chart above. 
+
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActResGraph.png)
+![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActGraph.png)
+
 
 ## Cluster Analysis
 Two separate cluster analyses were performed, in accordance with the above findings. The first cluster analysis (All Metrics) was conducted using all four social metrics. The second cluster analysis (Partial) was only based upon the percentage of non-white residents and the teenage birth rate, due to the lack of significance of the other values indicated by the large p-values - see "mlr" tab of [midterm_project_analysis](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/midterm_project_analysis.xlsx).
