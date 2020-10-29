@@ -58,7 +58,7 @@ When comparing teen birth rate to SAT scores, there is no statistical significan
 ### Single Linear Regression - Percentage of Non-white Residents
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/SLR%25NonWhite.png)
-![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/NonWhiteGraph.png)
+![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/NonWhite%20Graph.png)
 
 
 #### Analysis
