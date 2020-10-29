@@ -64,9 +64,13 @@ When comparing teen birth rate to SAT scores, there is no statistical significan
 #### Analysis
 When comparing percentage of non-white residents to SAT scores, there is no statistical significance. The R-Squared value is 0.086, meaning only 8.69% of the data is represented by the calculated linear regression line. The p-value is 0.115, greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight downward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
 
-### Multiple Linear Regression
+## Multiple Linear Regression
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/MLR.png)
+
+#### Analysis
+When comparing percentage of non-white residents to SAT scores, there is no statistical significance. The R-Squared value is 0.086, meaning only 8.69% of the data is represenflasdjfklasjf;lasdjf;jjs
+
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/MLRPredvsActChart.png)
 
 593.366445445458 + (0.003121051*HouseholdIncome) + (586.7510292*TeenBirthRate) + (-755.8109344*IncarcerationRate) + (-125.6070337*%NonWhite)
