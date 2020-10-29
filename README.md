@@ -42,7 +42,7 @@ Using graphs and important values, the below section contains the numerical deta
 
 
 ## Cluster Analysis
-Two separate cluster analyses were performed, in accordance with the above findings. The first cluster analysis (All Metrics) was conducted using all four social metrics. The partial cluster analysis was only based upon the percentage of non-white residents and the teenage birth rate, due to the lack of significance of the other values indicated by the large p-values - see "mlr" tab of [midterm_project_analysis](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/midterm_project_analysis.xlsx).
+Two separate cluster analyses were performed, in accordance with the above findings. The first cluster analysis (All Metrics) was conducted using all four social metrics. The second cluster analysis (Partial) was only based upon the percentage of non-white residents and the teenage birth rate, due to the lack of significance of the other values indicated by the large p-values - see "mlr" tab of [midterm_project_analysis](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/midterm_project_analysis.xlsx).
 
 ### Cluster Analysis - All Metrics
 ![](.gitbook/assets/cluster_full.png)
