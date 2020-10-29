@@ -37,22 +37,32 @@ An initial singular linear regression analysis was performed comparing SAT Score
  ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/IncomeGraph.png)
  
 #### Analysis
-When comparing household income to SAT scores, there is no statistical significance. The R-Squared value is 0.0267, meaning only 2.67% of the data is represented by the calculated linear regression line. The significance F value is 0.389, and the p-value is 0.388, far greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight upward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
+When comparing household income to SAT scores, there is no statistical significance. The R-Squared value is 0.0267, meaning only 2.67% of the data is represented by the calculated linear regression line. The p-value is 0.388, far greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight upward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
  
 ### Single Linear Regression - Incarceration Rate
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/SLRIncarceration.png)
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/IncarcerationGraph.png)
 
+#### Analysis
+When comparing incarceration rate to SAT scores, there is no statistical significance. The R-Squared value is 0.0547, meaning only 5.47% of the data is represented by the calculated linear regression line. The p-value is 0.214, greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight downward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
+
 ### Single Linear Regression - Teen Birth Rate
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/SLRTeenBirth.png)
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/TeenBirthGraph.png)
 
+#### Analysis
+When comparing teen birth rate to SAT scores, there is no statistical significance. The R-Squared value is 0.0079, meaning only 0.79% of the data is represented by the calculated linear regression line. The p-value is 0.641, far greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight upward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
+
 ### Single Linear Regression - Percentage of Non-white Residents
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/SLR%25NonWhite.png)
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/NonWhiteGraph.png)
+
+
+#### Analysis
+When comparing percentage of non-white residents to SAT scores, there is no statistical significance. The R-Squared value is 0.086, meaning only 8.69% of the data is represented by the calculated linear regression line. The p-value is 0.115, greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight downward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
 
 ### Multiple Linear Regression
 
