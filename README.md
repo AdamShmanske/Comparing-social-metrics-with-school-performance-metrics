@@ -55,6 +55,9 @@ Using graphs and important values, the below section contains the numerical deta
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/MLR.png)
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/MLRPredvsActChart.png)
 
+593.366445445458 + (0.003121051*HouseholdIncome) + (586.7510292*TeenBirthRate) + (-755.8109344*IncarcerationRate) + (-125.6070337*%NonWhite)
+
+
 ### Linear Regression Predictions vs Actual Observations
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActGraph.png)
