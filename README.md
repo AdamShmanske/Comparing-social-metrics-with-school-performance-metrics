@@ -21,7 +21,7 @@ The original data files can be found in the repository [here]https://github.com/
 
 Microsoft Excel was used to answer:
 * **What, if any, is the relationship between SAT performance and household income, percentage of non-white residents, incarceration rate, and teen birth rate?** Used individual linear regression and multiple linear regression to determine whether or not a numerical relationship could be determined between the factors used for analysis.
-* **Can the dataset be effectively grouped into distinct clusters based on the relationship between SAT scores and the social metrics that were examined?** Used cluster anaylsis to try and separate the high schools into distinctive groupings.
+* **Can the dataset be effectively grouped into distinct clusters based on the relationship between SAT scores and the social metrics that were examined?** Used cluster analysis to try and separate the high schools into distinctive groupings.
 
 # Data Answer
 
