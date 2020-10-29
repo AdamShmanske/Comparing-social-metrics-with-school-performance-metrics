@@ -26,7 +26,7 @@ Microsoft Excel was used to answer:
 # Data Answer
 
 Using graphs and important values, the below section contains the numerical details and findings of our analysis.
-An initial singular linear regression analysis was performed comparing SAT Scores to each of our four variables: Household Income, Incarceration Rate, Teen Birth Rate, and Percentage of Non-White Residents.
+An initial singular linear regression analysis was performed comparing SAT Scores to each of our four variables: Household Income, Incarceration Rate, Teen Birth Rate, and Percentage of Non-White Residents. This was done to see if any of these singular variables were able to make a statiscally significant prediction of SAT scores.
 
 
 ## Linear Regression
@@ -35,6 +35,9 @@ An initial singular linear regression analysis was performed comparing SAT Score
  
  ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/SLRIncome.png)
  ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/IncomeGraph.png)
+ 
+#### Analysis
+When comparing household income to SAT scores, there is no statistical significance. The R-Squared value is 0.0267, meaning only 2.67% of the data is represented by the calculated linear regression line. The significance F value is 0.389, and the p-value is 0.388, far greater than a statistically significant value of <0.05. This interpretation of the data is clearly represented by the graph. Although a slight upward trend may be visible, it is clear that there is not an obvious correlation and the datapoints are relatively randomly distributed.
  
 ### Single Linear Regression - Incarceration Rate
 
