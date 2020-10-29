@@ -26,7 +26,7 @@ Microsoft Excel was used to answer:
 # Data Answer
 
 Using graphs and important values, the below section contains the numerical details and findings of our analysis.
-An initial singular linear regression analysis was performed comparing SAT Scores to each of our four variables: Household Income, Incarceration Rate, Teen Birth Rate, and Percentage of Non-White Residents. This was done to see if any of these singular variables were able to make a statistically significant prediction of SAT scores.
+An initial singular linear regression analysis was performed comparing SAT Scores to each of our four variables: Household Income, Incarceration Rate, Teen Birth Rate, and Percentage of Non-White Residents. This was done to see if any of these singular variables were able to make a statiscally significant prediction of SAT scores.
 
 
 ## Linear Regression
@@ -58,7 +58,7 @@ When comparing teen birth rate to SAT scores, there is no statistical significan
 ### Single Linear Regression - Percentage of Non-white Residents
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/SLR%25NonWhite.png)
-![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/NonWhite%20Graph.png)
+![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/NonWhiteGraph.png)
 
 
 #### Analysis
@@ -127,7 +127,7 @@ The results from the partical cluster analysis are a little more inconclusive th
 
 The irregularity of these conclusions may largely be the result of a location bias. Since commuter institutions like Baltimore City College and charter schools were included alongside distric-specific high schools, some of the data may not be representative of the actual student body in each school. However, the data analysis largely points to the expected conclusion that underserved communities possess an inherent tendency towards lower test scores.
 
-## Data Application and Business Answer
+## Data Application
 
 ### Linear Regression
 A simple linear regression comparing each of the four variables with SAT scores was not effective at predicting the data or establishing a strong correlation among any of the variables. A multiple linear regression using inputs from household income, teen birth rate, incarceration rate, and percentage of non white residents was much more effective at representing the data. While this analysis still only accurately predicted 28% of the data, looking at the general trendlines for actual and predicted SAT scores it is clear that there is a loose correlation between the two. Thus, our multiple linear regression was not a statistically significant predictor of SAT scores, but it can provide a useful estimate. 
@@ -135,4 +135,9 @@ A simple linear regression comparing each of the four variables with SAT scores 
 ### Cluster Analysis
 The cluster analysis was not clearly representative of the expected results, but still demonstrates a distinct relationship between social metrics and test scores. Distinctive groups emerged from the data, which effectively display the disparity of test scores between priviliged and underpriviliged areas in Baltimore. It is perhaps worth noting that the vast majority of school test scores in Baltimore fall below the [national average of 1068](https://www.princetonreview.com/college-advice/good-sat-scores#:~:text=A%20perfect%20SAT%20score%20is,class%20of%202018%20was%201068.). 
 
-### Conclusion
+### Conclusion and Business Answer
+We expected this data analysis to yield conclusive results regarding the relationship between social metrics and SAT scores in Baltimore City. However, both the linear regression and cluster analysis indicated only a loose relationship between performance on the SAT and the social metrics that we exanmined (household income, percentage of non-white residents, teenage birth rate, and incarceration rate). We believe that this surprising deviation from the expected results may have been caused by our inclusion of charter schools and community colleges in the dataset, as the students of these schools are not necessarily from the surrounding area. Thus the selected social metrics for a school's tract would not be applicable to the actual students of the school, who likely commute from other areas of Baltimore.
+
+Despite the relative inconclusiveness of our data analysis, there are several observations from the dataset that remain relevant. The singular linear regressions did not yield a distinct relationship between the variables, but the multiple linear regression effectively demonstrated an approximate estimate for SAT scores. Thus, although the relationship between social metrics and test scores was not as clear as we expected, important conclusions can be drawn regarding the lack of access to higher education experienced by underserved communities. Improving some of these social metrics through policymaking may be a helpful step towards increasing the educational opportunities that are available.
+
+It is also worth noting that both cluster analyses identified Baltimore City College as the highest-scoring cluster point. Many of Baltimore's other city-funded colleges achieved similarly high test scores, in stark contrast to some of the traditional high schools in the city. It may be worth examining the test-preparation practices employed by students at these city colleges in order to implement these practices at underperforming high schools. For example, the city colleges may have access to test preparation materials that are not available to the students in Baltimore's underserved public high school system.
