@@ -130,7 +130,7 @@ The irregularity of these conclusions may largely be the result of a location bi
 ## Data Application and Business Answer
 
 ### Linear Regression
-
+A simple linear regression comparing each of the four variables with SAT scores was not effective at predicting the data or establishing a strong correlation among any of the variables. A multiple linear regression using inputs from household income, teen birth rate, incarceration rate, and percentage of non white residents was much more effective at representing the data. While this analysis still only accurately predicted 28% of the data, looking at the general trendlines for actual and predicted SAT scores it is clear that there is a loose correlation between the two. Thus, our multiple linear regression was not a statistically significant predictor of SAT scores, but it can provide a useful estimate. 
 
 ### Cluster Analysis
 The cluster analysis was not clearly representative of the expected results, but still demonstrates a distinct relationship between social metrics and test scores. Distinctive groups emerged from the data, which effectively display the disparity of test scores between priviliged and underpriviliged areas in Baltimore. It is perhaps worth noting that the vast majority of school test scores in Baltimore fall below the [national average of 1068](https://www.princetonreview.com/college-advice/good-sat-scores#:~:text=A%20perfect%20SAT%20score%20is,class%20of%202018%20was%201068.). 
