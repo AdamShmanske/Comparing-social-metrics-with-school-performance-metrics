@@ -71,7 +71,7 @@ When comparing percentage of non-white residents to SAT scores, there is no stat
 #### Analysis
 Performing a multiple linear regression analysis that included all four variables yielded significantly better results. This linear regression analysis had an R-Squared value of 0.280, meaning that 28.0% of the data can be accurately predicted by the formula below. The significance F value of 0.075 was also much closer to 0, meaning that this multiple linear regression analyis was the best indicator of SAT performance. Looking into individual variables, our intercept and teen birth rate variables were the only inputs that had p-values of <0.05 (0.018 and 0.024 respectively). Household income, incarceration rate, and percentage of non-white residents were less statistically significant variables, as all had p-values >0.05.
 
-#### Equation
+### Equation
 
 Using this multiple linear regression output, a predictive formula for SAT scores can be created using the four variables and intercept provided. The predictive formula calculated using this analysis is:
 
