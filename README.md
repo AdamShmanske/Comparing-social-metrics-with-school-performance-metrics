@@ -26,6 +26,7 @@ Microsoft Excel was used to answer:
 # Data Answer
 
 Using graphs and important values, the below section contains the numerical details and findings of our analysis.
+An initial singular linear regression analysis was performed comparing SAT Scores to each of our four variables: Household Income, Incarceration Rate, Teen Birth Rate, and Percentage of Non-White Residents.
 
 
 ## Linear Regression
