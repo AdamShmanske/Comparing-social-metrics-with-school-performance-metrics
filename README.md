@@ -88,7 +88,7 @@ First, a residual plot is displayed which graphically represents the residual va
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActResGraph.png)
 
-
+This second plot instead compares both the actual and the predicted SAT scores for each individual observation. The orange trendline follows the predicted values calculated using the equation from our multiple linear regression analysis for each observation. The blue trendline follows the actual values for each observation. It is clear that the multiple linear regression prediction is relatively accurate, as the two trendlines tend to loosely follow each other, but it is not perfect. These trendlines are not closer because our equation only predicted 28% of the data, and thus we need more data to input in order to create a more predictive trendline.
 
 ![](https://github.com/AdamShmanske/Comparing-social-metrics-with-school-performance-metrics/blob/main/.gitbook/assets/PredvsActGraph.png)
 
